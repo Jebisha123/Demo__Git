@@ -1,2 +1,2 @@
 # Demo__Git
-Learn Git
+Learn all the git command
